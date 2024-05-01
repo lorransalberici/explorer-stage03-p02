@@ -21,10 +21,6 @@ Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
   <img alt="projeto Introdução à Responsividade" src="https://i.imgur.com/59nTPV8.png" width="100%">
 </p>
 
-<p align="center">Versão Mobile
-  <img alt="projeto Introdução à Responsividade" src="https://i.imgur.com/UM5zREd.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -34,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O [Introdução à Responsividade](https://lorransalberici.github.io/explorer-introducao-a-responsividade/) é uma page feita para treinar o conceito de responsividade(mobileFirst)
+O [Introdução à Responsividade](https://lorransalberici.github.io/explorer-stage03-p02/) é uma page feita para treinar o conceito de responsividade(mobileFirst)
 
 ## 🔖 Layout
 
